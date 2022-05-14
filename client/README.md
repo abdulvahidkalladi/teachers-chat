@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 
 A chat application designed for Teachers using StreamChat API. This is specially designed for teachers without the distracting effects of other common messaging platforms. Through this Teachers can create special channels for different subjects, share documents, or can proceed with usual direct messages to fellow teachers.
